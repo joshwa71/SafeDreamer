@@ -1,0 +1,9 @@
+Params to cycle:
+- Lagrange clipping (5) : (10 > 2)
+- Lagrange learning rate (3)
+- Lagrange coefficient (5)
+- Model size (3): (med > large)
+- Imagine horizon (3)
+- entropy coefficient
+- lagrange clip grad norm
+- Cost baseline
